@@ -1,1 +1,1 @@
-# Mazes
+# The C Programming Language
